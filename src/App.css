@@ -1,0 +1,4 @@
+.wallpaper {
+  background: url(@/../public/images/windows-wallpaper.webp) no-repeat center center fixed;
+  background-size: cover;
+}
